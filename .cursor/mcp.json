@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "binance": {
+      "url": "https://agent.binance.com/mcp/agentic",
+      "transport": "sse"
+    }
+  }
+}

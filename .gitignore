@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+vendor/
+.pnpm-store/
+
+# Virtual Environments & Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Builds & Outputs
+dist/
+build/
+.next/
+out/
+target/
+*.apk
+*.aab
+bin/
+obj/
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
